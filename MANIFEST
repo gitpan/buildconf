@@ -1,0 +1,8 @@
+buildconf.pl
+Changes
+inc/build.cf
+inc/build.conf
+MANIFEST			This list of files
+META.yml
+README
+t/buildconf.t

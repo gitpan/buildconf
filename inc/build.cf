@@ -1,0 +1,6 @@
+$Data{config}{dir}{etc} ='/etc';
+$Data{config}{dir}{log} ='/var/log';
+$Data{config}{dir}{tmp} ='/var/tmp';
+$Data{config}{file}{system}{user}{entries} ='/etc/master.passwd';
+       
+1;

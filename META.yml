@@ -1,0 +1,7 @@
+--- #YAML:1.0
+module_name: buildconf
+dist_version_from: buildconf.pl
+installdirs: site
+distribution_type: script
+license: perl
+dist_abstract: Convert a subsectional configuration to hash strings
